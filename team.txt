@@ -1,3 +1,7 @@
 raberger942, AarushPalve
 Favorite  programming language: Java
+<<<<<<< HEAD
 Team motto: fszdkjfxhklsdjxchv.nsdlijz;s/kmxc
+=======
+Team motto: Keep It Simple Stupid
+>>>>>>> upstream/main
